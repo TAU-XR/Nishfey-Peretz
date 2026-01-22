@@ -13,6 +13,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 0
+--- !u!114 &-331224102217828468
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 7
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -21,7 +34,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Misc
-  m_Shader: {fileID: -6465566751694194690, guid: 70f517ab1626244818566b217ed1fa10,
+  m_Shader: {fileID: -6465566751694194690, guid: 2eee2a7e78b1191459af3b22e9d5e7b2,
     type: 3}
   m_Parent: {fileID: 2100000, guid: 92f64771ec54841bea894e2ef060d884, type: 2}
   m_ModifiedSerializedProperties: 0
@@ -44,5 +57,6 @@ Material:
     m_Ints: []
     m_Floats:
     - _Float: 0.55
+    - _Strength: 0.06
     m_Colors: []
   m_BuildTextureStacks: []

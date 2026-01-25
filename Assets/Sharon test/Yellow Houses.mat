@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Yellow Houses
-  m_Shader: {fileID: -6465566751694194690, guid: 70f517ab1626244818566b217ed1fa10,
+  m_Shader: {fileID: -6465566751694194690, guid: 2eee2a7e78b1191459af3b22e9d5e7b2,
     type: 3}
   m_Parent: {fileID: 2100000, guid: 92f64771ec54841bea894e2ef060d884, type: 2}
   m_ModifiedSerializedProperties: 0
@@ -38,10 +38,23 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _Texture2D:
-        m_Texture: {fileID: 2800000, guid: 799104cfbaae44bf991ff7d0a0b130a6, type: 3}
+        m_Texture: {fileID: 2800000, guid: 52d713cf50d60744999615a772d3d4d3, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats: []
     m_Colors: []
   m_BuildTextureStacks: []
+--- !u!114 &7896065391797206367
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 7
